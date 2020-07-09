@@ -15,3 +15,6 @@ I had mine printed in PETG on a [Prusa i3](https://shop.prusa3d.com/en/3d-printe
 
 ## Modifying
 You are free to modify this part, the [STP file](./connector_rev_July_2.stp) can be used for that.
+
+## Notes
+- All dimensions (`.stl`, `.stp`, and drawing) are in millimeters.
